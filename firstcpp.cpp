@@ -9,7 +9,7 @@ void func(){
     cout<<"This funcs prints something"<<endl;
 }
 int main(){
-    cout<<"Helloworld to Atharva";
+    cout<<"Github trial";
     func();
   function();
 

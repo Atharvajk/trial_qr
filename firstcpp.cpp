@@ -1,8 +1,10 @@
 #include<iostream>
 using namespace std;
-
+void func(){
+    cout<<"This funcs prints something"<<endl;
+}
 int main(){
     cout<<"Helloworld to Atharva";
-    cout<<"heyyy";
+    func();
     return 0;
 }

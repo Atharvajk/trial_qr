@@ -11,7 +11,7 @@ void func(){
 int main(){
     cout<<"Github trial";
     func();
-  function();
+    function();
 
     return 0;
 }

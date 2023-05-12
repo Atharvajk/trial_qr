@@ -11,7 +11,7 @@ void func(){
 int main(){
     cout<<"Helloworld to Atharva";
     func();
-  function();
+    function();
 
     return 0;
 }
